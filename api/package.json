@@ -1,7 +1,0 @@
-{
-  "name": "bunny-qr-proxy",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Vercel proxy for the BUNNY-X-MD /api/qr endpoint",
-  "engines": { "node": "20.x" }
-}
