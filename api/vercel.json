@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/qr.js": { "maxDuration": 30 }
-  }
-}
