@@ -15,7 +15,7 @@
  * se set hota hai (default neeche diya hai).
  */
 
-const DEFAULT_BACKEND = 'http://45.13.226.96:9024';
+const DEFAULT_BACKEND = 'http://65.75.203.46:16420';
 const TIMEOUT_MS = 25000; // panel ko naya QR banane me ~10s tak lag sakta hai
 const RETRIES = 1; // network hiccup par 1 baar dobara try
 
